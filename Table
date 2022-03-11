@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>tdn</title>
+</head>
+<body>
+	<table border="1" cellspacing="0" cellpadding="10">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Age</th>
+				<th>Address</th>	
+
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Adnan</td>
+				<td>100</td>
+				<td>Sylhet</td>	
+
+			</tr>
+
+			<tr>
+				<td>nanda</td>
+				<td>001</td>
+				<td>Amberkhana</td>	
+
+			</tr>
+
+
+		</tbody>
+	</table>
+
+	<table border="1">
+		<thead>
+			<tr>
+				<th rowspan="2">Month</th>
+				<th colspan="3">Payments</th>
+
+			</tr>
+
+			<tr>
+				<th>Physics</th>
+				<th>Math</th>
+				<th>ICT</th>
+
+			</tr>
+		</thead>
+
+		<tbody>
+			
+			<tr>
+				<td>january</td>
+				<td>10000</td>
+				<td>10000</td>
+				<td>20000</td>
+			</tr>
+
+			<tr>
+				<td>Feb</td>
+				<td>5000</td>
+				<td>1212</td>
+				<td>121212</td>
+
+			</tr>
+
+			<tr>
+				<td>march </td>
+				<td>1212</td>
+				<td>239289392</td>
+				<td>289128192</td>
+			</tr>
+		</tbody>
+
+	</table>
+
+</body>
+</html>
